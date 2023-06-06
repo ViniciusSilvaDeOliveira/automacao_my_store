@@ -10,6 +10,6 @@ Funcionalidade: Home - Verificar tela inicial do site
         * acessar a home do Marketplace
 
     @validando_itens_tela
-    Cenario: buscando alguns itens na tela inicial
+    Cenario: buscando alguns itens tela inicial
         Quando visualizar os elementos
         Entao valido alguns itens importantes na tela inicial
